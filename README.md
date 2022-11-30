@@ -23,7 +23,7 @@
 just clonning right, don't expect too much, you will be disappointed and suck my dick.
 
 #Guide Install
-$pip install rich request bs4 futures<br
-$git clone https://github.com/noe999x/nancy
-$cd nancy
-$python run.pyc
+$pip install rich request bs4 futures<br>
+$git clone https://github.com/noe999x/nancy<br>
+$cd nancy<br>
+$python run.pyc</br>
