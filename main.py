@@ -6,7 +6,7 @@ try:
 except:pass
 try:
     os.system('clear')
-    print('Tools sedang dalam pemeliharan');time.sleep(4)
+    print('Tools sedang dalam pemeliharaan');time.sleep(4)
     print('Untuk info selanjutnya bisa hubungi saya!');time.sleep(3)
 except:pass
 def atmin():
