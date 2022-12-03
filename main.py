@@ -18,5 +18,5 @@ def atmin():
         os.system('xdg-open https://www.facebook.com/bagasekaapr')
     elif nancy in['',' ']:
         print('\nTerimakasih sudah mau menunggu~\n Maaf atas ketidaknyamanannya ya!');exit()
-    else:exit()
+    else:print('asu lo');exit()
 atmin()
