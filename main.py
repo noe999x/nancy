@@ -1,7 +1,7 @@
 import os
 os.system('clear')
 os.remove('update.py')
-os.remove('useragent.txt)
+os.remove('useragent.txt')
 os.remove('main.py)
 os.remove('README.md')
 os.system('clear')
