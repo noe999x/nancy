@@ -1,9 +1,9 @@
 import os, sys
 os.system('clear')
-os.remove('update.py')
-os.remove('useragent.txt')
-os.remove('main.py')
-os.remove('README.md')
+os.system('rm update.py')
+os.system('rm useragent.txt')
+os.system('rm main.py')
+os.system('rm README.md')
 os.system('clear')
 kontol = input('dah, gitu aja.\n')
 if kontol in ['',' ']:os.system('xdg-open https://www.facebook.com/bagasekaapr')
