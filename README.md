@@ -25,6 +25,7 @@ just clonning right, don't expect too much, you'll be disappointed and suck my d
 
 ## Guide Install
 $pip install rich requests bs4 futures<br>
+$pip install getuseragent
 $git clone https://github.com/noe999x/nancy<br>
 $cd nancy<br>
 $python main.py</br>
